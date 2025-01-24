@@ -3,8 +3,7 @@ from slideflow.slide import qc
 import argparse
 import os
 
-# normalizaton, guassian 옵션 가능하게 추가가
-
+# normalizaton, guassian 옵션 가능하게 추가 예정
 
 # Argument parser 설정
 parser = argparse.ArgumentParser(description="Slideflow Tile Extraction Script")
